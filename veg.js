@@ -16,7 +16,7 @@ const vegTimes =  [
       "other": "Stir-fry pieces 5"
     },
     {
-      "name": "Beans, green",
+      "name": "Green Beans",
       "steamed": "5 to 15",
       "microwaved": "6 to 12",
       "blanched": "4 to 5",
@@ -32,8 +32,7 @@ const vegTimes =  [
       "other": "Bake 60 at 350°F"
     },
     {
-    {
-      "name": "Broccoli, flowerets",
+      "name": "Broccoli",
       "steamed": "5 to 6",
       "microwaved": "4 to 5",
       "blanched": "2 to 3",
@@ -49,7 +48,7 @@ const vegTimes =  [
       "other": "Halve; stir-fry 3 to 4"
     },
     {
-      "name": "Cabbage, wedges",
+      "name": "Cabbage Wedges",
       "steamed": "6 to 9",
       "microwaved": "10 to 12",
       "blanched": "NR",
@@ -57,7 +56,7 @@ const vegTimes =  [
       "other": "Blanch leaves, stuff and bake"
     },
     {
-      "name": "Carrots, whole",
+      "name": "Whole Carrots",
       "steamed": "10 to 15",
       "microwaved": "8 to 10",
       "blanched": "4 to 5",
@@ -65,7 +64,7 @@ const vegTimes =  [
       "other": "Bake 30 to 40 at 350°F"
     },
     {
-      "name": "Cauliflower, whole",
+      "name": "Whole Cauliflower",
       "steamed": "15 to 20",
       "microwaved": "6 to 7",
       "blanched": "4 to 5",
@@ -73,7 +72,7 @@ const vegTimes =  [
       "other": "Blanch, then back 20 at 350°F"
     },
     {
-      "name": "Corn, on cob",
+      "name": "Corn on cob",
       "steamed": "6 to 10",
       "microwaved": "3 to 4",
       "blanched": "3 to 4",
@@ -177,7 +176,7 @@ const vegTimes =  [
       "other": "Bake havles 8 to 15 at 400"
     },
     {
-      "name": "Turnips, whole",
+      "name": "Whole Turnips",
       "steamed": "20 to 25",
       "microwaved": "9 to 12",
       "blanched": "NR",
