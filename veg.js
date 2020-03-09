@@ -1,19 +1,11 @@
 const vegTimes =  [
     {
-      "name": "Artichoke, whole",
+      "name": "Artichoke",
       "steamed": "30 to 60",
       "microwaved": "4 to 5 each",
       "blanched": "NR",
       "boiled": "25 to 40",
       "other": "NR"
-    },
-    {
-      "name": "Artichoke, hearts",
-      "steamed": "10 to 15",
-      "microwaved": "6 to 7",
-      "blanched": "8 to 12",
-      "boiled": "10 to 15",
-      "other": "Stir-fry 10"
     },
     {
       "name": "Asparagus",
@@ -32,14 +24,6 @@ const vegTimes =  [
       "other": "Stir-fry 3 to 4"
     },
     {
-      "name": "Beans, lima",
-      "steamed": "10 to 20",
-      "microwaved": "8 to 12",
-      "blanched": "5 to 10",
-      "boiled": "20 to 30",
-      "other": "NR"
-    },
-    {
       "name": "Beets",
       "steamed": "40 to 60",
       "microwaved": "14 to 18",
@@ -48,13 +32,6 @@ const vegTimes =  [
       "other": "Bake 60 at 350°F"
     },
     {
-      "name": "Broccoli, spears",
-      "steamed": "8 to 15",
-      "microwaved": "6 to 7",
-      "blanched": "3 to 4",
-      "boiled": "5 to 10",
-      "other": "Blanch, then bake"
-    },
     {
       "name": "Broccoli, flowerets",
       "steamed": "5 to 6",
@@ -80,28 +57,12 @@ const vegTimes =  [
       "other": "Blanch leaves, stuff and bake"
     },
     {
-      "name": "Cabbage, shredded",
-      "steamed": "5 to 8",
-      "microwaved": "8 to 10",
-      "blanched": "NR",
-      "boiled": "5 to 10",
-      "other": "Stir-fry 3 to 4"
-    },
-    {
       "name": "Carrots, whole",
       "steamed": "10 to 15",
       "microwaved": "8 to 10",
       "blanched": "4 to 5",
       "boiled": "15 to 20",
       "other": "Bake 30 to 40 at 350°F"
-    },
-    {
-      "name": "Carrots, sliced",
-      "steamed": "4 to 5",
-      "microwaved": "4 to 7",
-      "blanched": "3 to 4",
-      "boiled": "5 to 10",
-      "other": "Stir-fry 3 to 4"
     },
     {
       "name": "Cauliflower, whole",
@@ -112,36 +73,12 @@ const vegTimes =  [
       "other": "Blanch, then back 20 at 350°F"
     },
     {
-      "name": "Cauliflower, florets",
-      "steamed": "6 to 10",
-      "microwaved": "3 to 4",
-      "blanched": "3 to 4",
-      "boiled": "5 to 8",
-      "other": "Stir-fry 3 to 4"
-    },
-    {
       "name": "Corn, on cob",
       "steamed": "6 to 10",
       "microwaved": "3 to 4",
       "blanched": "3 to 4",
       "boiled": "4 to 7",
       "other": "Soak 10; bake at 375°F"
-    },
-    {
-      "name": "Corn, cut",
-      "steamed": "4 to 6",
-      "microwaved": "2 per cup",
-      "blanched": "2 1/2 to 4",
-      "boiled": "3 to 4",
-      "other": "Stir-fry 3 to 4"
-    },
-    {
-      "name": "Eggplant, whole",
-      "steamed": "15 to 30",
-      "microwaved": "7 to 10",
-      "blanched": "10 to 15",
-      "boiled": "10 to 15",
-      "other": "Bake 30 at 400"
     },
     {
       "name": "Eggplant, diced",
@@ -158,14 +95,6 @@ const vegTimes =  [
       "blanched": "8 to 15",
       "boiled": "30 to 60",
       "other": "Stir-fry mustard greens 4 to 6"
-    },
-    {
-      "name": "Greens, kale/beet",
-      "steamed": "4 to 6",
-      "microwaved": "8 to 10",
-      "blanched": "4 to 5",
-      "boiled": "5 to 8",
-      "other": "Stir-fry 2 to 3"
     },
     {
       "name": "Kohlrabi",
@@ -190,14 +119,6 @@ const vegTimes =  [
       "blanched": "NR",
       "boiled": "20 to 30",
       "other": "Bake 60 at 400°F"
-    },
-    {
-      "name": "Onions, pearl",
-      "steamed": "15 to 20",
-      "microwaved": "5 to 7",
-      "blanched": "2 to 3",
-      "boiled": "10 to 20",
-      "other": "Braise in broth 15 to 25"
     },
     {
       "name": "Parsnips",
@@ -232,36 +153,12 @@ const vegTimes =  [
       "other": "Bake 40 to 60 at 400°F"
     },
     {
-      "name": "Potatoes, cut",
-      "steamed": "10 to 12",
-      "microwaved": "8 to 10",
-      "blanched": "NR",
-      "boiled": "15 to 20",
-      "other": "Bake 25 to 30 at 400°F"
-    },
-    {
       "name": "Spinach",
       "steamed": "5 to 6",
       "microwaved": "3 to 4",
       "blanched": "2 to 3",
       "boiled": "2 to 5",
       "other": "Stir-fry 3"
-    },
-    {
-      "name": "Squash, sliced",
-      "steamed": "5 to 10",
-      "microwaved": "3 to 6",
-      "blanched": "2 to 3",
-      "boiled": "5 to 10",
-      "other": "NR"
-    },
-    {
-      "name": "Squash, halves",
-      "steamed": "15 to 40",
-      "microwaved": "6 to 10",
-      "blanched": "NR",
-      "boiled": "5 to 10",
-      "other": "Bake 40 to 60 at 375°F"
     },
     {
       "name": "Squash, whole",
@@ -286,14 +183,6 @@ const vegTimes =  [
       "blanched": "NR",
       "boiled": "15 to 20",
       "other": "Bake 30 to 45 at 350°F"
-    },
-    {
-      "name": "Turnips, cubed",
-      "steamed": "12 to 15",
-      "microwaved": "6 to 8",
-      "blanched": "2 to 3",
-      "boiled": "5 to 8",
-      "other": "Stir-fry 2 to 3"
     },
     {
       "name": "Zucchini",
