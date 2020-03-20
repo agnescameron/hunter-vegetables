@@ -6,12 +6,12 @@ const vegTimes =  [
       "blanched": "NR",
       "boiled": 25,
       "other": "NR",
-      "color": "green"
+      "color": "yellowgreen"
     },
     {
       "name": "Asparagus",
       "steamed": 8,
-      "microwaved": 4,
+      "microwaved": 3,
       "blanched": 2,
       "boiled": 5,
       "other": "Stir-fry pieces 5",
@@ -32,7 +32,7 @@ const vegTimes =  [
       "microwaved": 14,
       "blanched": "NR",
       "boiled": 30,
-      "other": "Bake 60 at 350°F",
+      "other": "Bake 60 at 350&#176;F",
       "color": "purple"
     },
     {
@@ -51,7 +51,7 @@ const vegTimes =  [
       "blanched": 4,
       "boiled": 5,
       "other": "Halve; stir-fry 3 to 4",
-      "color": "green"
+      "color": "yellowgreen"
     },
     {
       "name": "Cabbage Wedges",
@@ -60,7 +60,7 @@ const vegTimes =  [
       "blanched": "NR",
       "boiled": 10,
       "other": "Blanch leaves, stuff and bake",
-      "color": "green"
+      "color": "yellowgreen"
     },
     {
       "name": "Whole Carrots",
@@ -68,7 +68,7 @@ const vegTimes =  [
       "microwaved": 8,
       "blanched": 4,
       "boiled": 15,
-      "other": "Bake 30 to 40 at 350°F",
+      "other": "Bake 30 to 40 at 350&#176;F",
       "color": "orange"
     },
     {
@@ -77,16 +77,16 @@ const vegTimes =  [
       "microwaved": 6,
       "blanched": 4,
       "boiled": 10,
-      "other": "Blanch, then back 20 at 350°F",
-      "color": "white"
+      "other": "Blanch, then back 20 at 350&#176;F",
+      "color": "ivory"
     },
     {
       "name": "Corn on cob",
       "steamed": 6,
-      "microwaved": 3,
+      "microwaved": 2,
       "blanched": 3,
       "boiled": 4,
-      "other": "Soak 10; bake at 375°F",
+      "other": "Soak 10; bake at 375&#176;F",
       "color": "yellow"
     },
     {
@@ -95,7 +95,7 @@ const vegTimes =  [
       "microwaved": 5,
       "blanched": 3,
       "boiled": 5,
-      "other": "Bake 10 to 15 425°F",
+      "other": "Bake 10 to 15 425&#176;F",
       "color": "purple"
     },
     {
@@ -113,8 +113,8 @@ const vegTimes =  [
       "microwaved": 8,
       "blanched": "NR",
       "boiled": 15,
-      "other": "Bake 50 to 60 at 350°F",
-      "color": "white"
+      "other": "Bake 50 to 60 at 350&#176;F",
+      "color": "ivory"
     },
     {
       "name": "Mushrooms",
@@ -123,7 +123,7 @@ const vegTimes =  [
       "blanched": "NR",
       "boiled": 3,
       "other": "Stir-fry or broil 4 to 5",
-      "color": "white"
+      "color": "ivory"
     },
     {
       "name": "Onions, whole",
@@ -131,8 +131,8 @@ const vegTimes =  [
       "microwaved": 6,
       "blanched": "NR",
       "boiled": 20,
-      "other": "Bake 60 at 400°F",
-      "color": "white"
+      "other": "Bake 60 at 400&#176;F",
+      "color": "tan"
     },
     {
       "name": "Parsnips",
@@ -140,8 +140,8 @@ const vegTimes =  [
       "microwaved": 4,
       "blanched": 3,
       "boiled": 5,
-      "other": "Bake 30 at 325°F",
-      "color": "white"
+      "other": "Bake 30 at 325&#176;F",
+      "color": "ivory"
     },
     {
       "name": "Peas",
@@ -167,13 +167,13 @@ const vegTimes =  [
       "microwaved": 6,
       "blanched": "NR",
       "boiled": 20,
-      "other": "Bake 40 to 60 at 400°F",
-      "color": "brown"
+      "other": "Bake 40 to 60 at 400&#176;F",
+      "color": "tan"
     },
     {
       "name": "Spinach",
-      "steamed": 5,
-      "microwaved": 3,
+      "steamed": 4,
+      "microwaved": 2,
       "blanched": 2,
       "boiled": 2,
       "other": "Stir-fry 3",
@@ -185,7 +185,7 @@ const vegTimes =  [
       "microwaved": 5,
       "blanched": "NR",
       "boiled": 20,
-      "other": "Bake 40 to 90 at 350°F",
+      "other": "Bake 40 to 90 at 350&#176;F",
       "color": "orange"
     },
     {
@@ -194,7 +194,7 @@ const vegTimes =  [
       "microwaved": 3,
       "blanched": 1,
       "boiled": "NR",
-      "other": "Bake havles 8 to 15 at 400",
+      "other": "Bake halves 8 to 15 at 400",
       "color": "red"
     },
     {
@@ -203,13 +203,13 @@ const vegTimes =  [
       "microwaved": 9,
       "blanched": "NR",
       "boiled": 15,
-      "other": "Bake 30 to 45 at 350°F",
-      "color": "white"
+      "other": "Bake 30 to 45 at 350&#176;F",
+      "color": "ivory"
     },
     {
       "name": "Zucchini",
-      "steamed": 5,
-      "microwaved": 3,
+      "steamed": 3,
+      "microwaved": 4,
       "blanched": 2,
       "boiled": 5,
       "other": "Broil halves 5",
